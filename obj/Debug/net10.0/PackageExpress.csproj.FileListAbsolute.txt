@@ -1,0 +1,14 @@
+/Users/talhabas/Desktop/PackageExpress/bin/Debug/net10.0/PackageExpress
+/Users/talhabas/Desktop/PackageExpress/bin/Debug/net10.0/PackageExpress.deps.json
+/Users/talhabas/Desktop/PackageExpress/bin/Debug/net10.0/PackageExpress.runtimeconfig.json
+/Users/talhabas/Desktop/PackageExpress/bin/Debug/net10.0/PackageExpress.dll
+/Users/talhabas/Desktop/PackageExpress/bin/Debug/net10.0/PackageExpress.pdb
+/Users/talhabas/Desktop/PackageExpress/obj/Debug/net10.0/PackageExpress.GeneratedMSBuildEditorConfig.editorconfig
+/Users/talhabas/Desktop/PackageExpress/obj/Debug/net10.0/PackageExpress.AssemblyInfoInputs.cache
+/Users/talhabas/Desktop/PackageExpress/obj/Debug/net10.0/PackageExpress.AssemblyInfo.cs
+/Users/talhabas/Desktop/PackageExpress/obj/Debug/net10.0/PackageExpress.csproj.CoreCompileInputs.cache
+/Users/talhabas/Desktop/PackageExpress/obj/Debug/net10.0/PackageExpress.dll
+/Users/talhabas/Desktop/PackageExpress/obj/Debug/net10.0/refint/PackageExpress.dll
+/Users/talhabas/Desktop/PackageExpress/obj/Debug/net10.0/PackageExpress.pdb
+/Users/talhabas/Desktop/PackageExpress/obj/Debug/net10.0/PackageExpress.genruntimeconfig.cache
+/Users/talhabas/Desktop/PackageExpress/obj/Debug/net10.0/ref/PackageExpress.dll
